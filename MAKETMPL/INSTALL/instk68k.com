@@ -1,1 +1,0 @@
-MAKE.k68k		=	$(MAKEIT) TARGET=k68k $(SUBTRGT)
